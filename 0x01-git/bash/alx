@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-echo "AlX Schools is so cool!"
-=======
-echo "AlX School"
->>>>>>> update_script
-=======
-echo "ALX School"
->>>>>>> update_script
+echo ALX School
